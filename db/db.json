@@ -1,0 +1,136 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      },
+      {
+        "id": 5,
+        "tipo": "Brioche"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      },
+      {
+        "id": 4,
+        "tipo": "Frango"
+      }
+    ],
+    "queijos": [
+      {
+        "id": 1,
+        "tipo": "Nenhum"
+      },
+      {
+        "id": 2,
+        "tipo": "Catupiry"
+      },
+      {
+        "id": 3,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 4,
+        "tipo": "Gorgonzola"
+      },
+      {
+        "id": 5,
+        "tipo": "Coalho"
+      },
+      {
+        "id": 6,
+        "tipo": "Mussarela"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Molho Especial"
+      },
+      {
+        "id": 3,
+        "tipo": "Alface"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 5,
+        "tipo": "Cebola Caramelizada"
+      },
+      {
+        "id": 6,
+        "tipo": "Picles"
+      },
+      {
+        "id": 7,
+        "tipo": "Queijo Extra"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "nome": "Wilson",
+      "carne": "Picanha",
+      "pao": "Brioche",
+      "queijo": "Cheddar",
+      "opcionais": [
+        "Bacon",
+        "Alface",
+        "Cebola Caramelizada",
+        "Queijo Extra",
+        "Tomate",
+        "Molho Especial"
+      ],
+      "status": "Em produção",
+      "id": 4
+    }
+  ]
+}
